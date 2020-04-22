@@ -1,7 +1,7 @@
 # Capstone Snake Game 
 https://confirm.udacity.com/9PL6RSGE
 
-![SensorFusion_Certificate](sensorFusion_certificate.png)
+![Cpp_certificate](Cpp_certificate.png)
 
 <img src="snake_game.gif"/>
 
